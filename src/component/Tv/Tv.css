@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    color: red;
+}
+img{
+    transition: 1s;
+}
+img:hover{
+    transform: scale(1.2);
+}
+h5{
+    transition: 1s;
+    
+}
+h5:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
